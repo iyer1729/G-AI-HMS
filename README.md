@@ -4,8 +4,8 @@
 
 ## Acknowledgment
 
-This project builds upon the [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) framework introduced by Zhao et al. in their paper:
+This project is built upon the [MotionGPT](https://github.com/OpenMotionLab/MotionGPT) framework, originally developed by Jiang et al.~(2024) and Chen et al.~(2023). We gratefully acknowledge the authors for their foundational contributions to language-driven human motion generation and for making their code publicly available.
 
-> Zhao, Z., Yang, H., Xu, X., Li, C., Huang, Q., Xu, F., & Liu, Y. (2023). MotionGPT: Human Motion as a Foreign Language. *arXiv preprint arXiv:2306.14795*. [arXiv:2306.14795](https://arxiv.org/abs/2306.14795)
+> Jiang, B., Chen, X., Liu, W., Yu, J., Yu, G., & Chen, T. (2024). *MotionGPT: Human Motion as a Foreign Language*. Advances in Neural Information Processing Systems, 36.
 
-We gratefully acknowledge the original authors for making their codebase publicly available.
+> Chen, X., Jiang, B., Liu, W., Huang, Z., Fu, B., Chen, T., & Yu, G. (2023). *Executing Your Commands via Motion Diffusion in Latent Space*. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 18000–18010.
